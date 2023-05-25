@@ -1,6 +1,8 @@
 # traffic-light-teensy
 Make a simple pedestrian crossing using Arduino Teensy 2.0
 
+
+
 I had this Arduino Teensy 2.0 board lying around since 2013.  Finally in 2023, I decided to do soemthing with it.  Luckily, even though the hardware is not sold anymore but the libraries still work.  This project is a small simulation of a pedestrian walk signal to cross a one-way car lane.  The traffic light is green for the cars most of the time, until a pedestrian presses a button to cross.  There is a not a lot going on here. The code is somewhat based on MVC pattern (MVC minus the model.)  We know all the views or states.
 
 1. Green light for the cars and red light for pedestrians.
@@ -19,7 +21,8 @@ Please reach out to me, if you have any questions.
 <img src="https://drive.google.com/uc?export=view&id=19IgV2WWAyli_V1LQL4nI6ekFIIs_urn-" style="width: 400px; max-width: 100%; height: auto" title="Controller board" />
 
 ## In action
-<video width="400" height="400" autoplay muted>
-  <source src="https://drive.google.com/uc?export=view&id=1r1Ar3DB1bYMM_Pi6jlA_BvvesTv6lYPC" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe src="https://youtu.be/gUiO2UAV6Z8" width="640" height="480" allow="autoplay"></iframe>
+
+
+
+
