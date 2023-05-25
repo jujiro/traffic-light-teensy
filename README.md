@@ -8,7 +8,7 @@ I had this Arduino Teensy 2.0 board lying around since 2013.  Finally in 2023, I
 3. Red for the cars and green for pedestrians.
 4. Blinking green for pedestrians (About to go red.)
 
-In terms of controller, there is only one event.  When pedestrian pushes the button to corss, a flag is set indicating the push even.  Since the whole cycle is looping, it checks for this flag and if the flag is on, it branches to other states, otherwise the cycle continues as usual (green for cars.)
+In terms of controller, there is only one event.  When pedestrian pushes the button to corss, a flag is set indicating the push event.  Since the whole cycle is looping, it checks for this flag and if the flag is on, it branches to other states, otherwise the cycle continues as usual (green for cars.)
 
 Please reach out to me, if you have any questions.
 
