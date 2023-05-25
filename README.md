@@ -12,4 +12,14 @@ In terms of controller, there is only one event.  When pedestrian pushes the but
 
 Please reach out to me, if you have any questions.
 
+## Controller board
 <img src="https://drive.google.com/uc?export=view&id=1OUDbnWzGfk5v6O0jkTEP5FxecFNwhuNj" style="width: 400px; max-width: 100%; height: auto" title="Controller board" />
+
+## Traffic lights
+<img src="https://drive.google.com/uc?export=view&id=19IgV2WWAyli_V1LQL4nI6ekFIIs_urn-" style="width: 400px; max-width: 100%; height: auto" title="Controller board" />
+
+## In action
+<video width="400" height="400" autoplay muted>
+  <source src="https://drive.google.com/uc?export=view&id=1r1Ar3DB1bYMM_Pi6jlA_BvvesTv6lYPC" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
