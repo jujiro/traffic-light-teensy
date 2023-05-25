@@ -19,6 +19,9 @@ Please reach out to me, if you have any questions.
 <img src="https://drive.google.com/uc?export=view&id=19IgV2WWAyli_V1LQL4nI6ekFIIs_urn-" style="width: 400px; max-width: 100%; height: auto" title="Controller board" />
 
 ## In action
+[![Watch the video](./in-action.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
+
+
 [![Watch the video](./in-action.jpg)](https://youtu.be/gUiO2UAV6Z8)
 
 
